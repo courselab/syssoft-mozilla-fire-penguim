@@ -1,0 +1,9 @@
+Results obtained from running the command:
+    objdump -s -j .rodata encrypt
+
+encrypt:     file format elf32-i386
+
+Contents of section .rodata:
+ 2000 03000000 01000200 7200656e 63727970  ........r.encryp
+ 2010 74002573 203a2025 64203a20 25730a00  t.%s : %d : %s..
+ 2020 77000000 65617379 00                 w...easy.       

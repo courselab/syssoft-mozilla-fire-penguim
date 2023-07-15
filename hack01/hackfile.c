@@ -1,10 +1,13 @@
-/* main.c - <one-line-description>
+/* hackfile.c - define função authorize
 
-   Copyright (c) <year>, <author(s)-name>  <email(s)>
+   Copyright (c) 2023, authors: 
+    Amanda Lindoso Figueiredo (amanda.lindoso@usp.br)
+    Marcus Vinícius Teixeira Huziwara (marcushuziwara@usp.br)
+    Thales Darini Souza (thalesdarini@usp.br)
+    Yago Poletto Salgado (yagopoletto@usp.br)
 
-   This file is part of <project>
-
-   <project> is free software: you can redistribute it and/or modify
+   This file is part of 'SysSoft activity - decode encrypted message'
+   which is free software: you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
    the Free Software Foundation, either version 3 of the License, or
    (at your option) any later version.
@@ -18,7 +21,6 @@
    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-int main()
-{
-    return 0 ;
+int authorize(char* usr, char* pwd) {
+    return 1;
 }
