@@ -1,5 +1,5 @@
 
- SysSoft activity - decode encrypted message
+ SysSoft 2023 activity - decode encrypted message
  ==============================
 
 A descrição do problema se encontra no README dentro da pasta hack01. Os autores, no arquivo AUTHORS.
